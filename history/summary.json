@@ -1,6 +1,6 @@
 [
   {
-    "name": "Junhong Notes",
+    "name": "Capkin Notes",
     "url": "https://blog.capkin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/blog.capkin.cn.ico",
     "slug": "junhong-notes",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 612,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "time": 565,
+    "timeDay": 565,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {}
   }
 ]
