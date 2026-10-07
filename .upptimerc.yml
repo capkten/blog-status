@@ -6,19 +6,19 @@ user-agent: capkten
 secrets: []
 
 sites:
-  - name: Junhong Notes
+  - name: Capkin Notes
     url: https://blog.capkin.cn
     slug: junhong-notes
 
 status-website:
   baseUrl: /blog-status
-  name: Junhong Notes Status
-  introTitle: "**Junhong Notes** service status"
-  introMessage: "Availability and response-time history for [blog.capkin.cn](https://blog.capkin.cn)."
+  name: Capkin Notes 状态
+  introTitle: "**Capkin Notes** 网站状态"
+  introMessage: "这里展示 [blog.capkin.cn](https://blog.capkin.cn) 的可用性与响应时间历史。"
   navbar:
-    - title: Status
+    - title: 状态
       href: /
-    - title: Blog
+    - title: 博客
       href: https://blog.capkin.cn
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
